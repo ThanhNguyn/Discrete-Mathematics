@@ -30,6 +30,8 @@ lean .\cac_phep_toan_trong_lean4.lean
 
 ## Bai lap trinh Chương 1
 
+- `chapter1/bai1.40_den_1.45.lean`: loi giai cac bai Lean 1.40–1.45.
+
 Các bài 1.33–1.39 và các Dự án 1.1–1.3 nằm trong thư mục `chapter1`:
 
 ```powershell
