@@ -28,6 +28,24 @@ lean .\bang_chan_tri_bool.lean
 lean .\cac_phep_toan_trong_lean4.lean
 ```
 
+## Bai lap trinh Chương 1
+
+Các bài 1.33–1.39 và Dự án 1.3 nằm trong thư mục `chapter1`:
+
+```powershell
+python .\chapter1\bai1.33.py
+python .\chapter1\bai1.34.py
+python .\chapter1\bai1.35.py
+python .\chapter1\bai1.36.py
+python .\chapter1\bai1.37.py
+python .\chapter1\bai1.38.py
+python .\chapter1\bai1.39.py
+python .\chapter1\du_an_1_3.py
+```
+
+Các phần vẽ biểu đồ của bài 1.36 và 1.39 dùng `numpy`/`matplotlib` nếu
+được cài đặt; các thuật toán chính vẫn chạy được không cần hai thư viện này.
+
 Neu lenh ket thuc ma khong co thong bao loi thi file da duoc Lean kiem tra thanh cong.
 
 ## Kiem tra ket qua
