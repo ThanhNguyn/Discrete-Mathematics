@@ -63,5 +63,5 @@ def do_thi_ngau_nhien(vertex_count=20, probability=0.12, seed=1):
 
 if __name__ == "__main__":
     edges, coloring = do_thi_ngau_nhien()
-    print(f"{len(edges)} cạnh")
-    print("màu:", coloring or "không tô được bằng 3 màu")
+    print(f"{len(edges)} canh")
+    print("mau:", coloring or "khong to duoc bang 3 mau")

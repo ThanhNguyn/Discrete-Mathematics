@@ -30,7 +30,7 @@ lean .\cac_phep_toan_trong_lean4.lean
 
 ## Bai lap trinh Chương 1
 
-Các bài 1.33–1.39 và Dự án 1.3 nằm trong thư mục `chapter1`:
+Các bài 1.33–1.39 và các Dự án 1.1–1.3 nằm trong thư mục `chapter1`:
 
 ```powershell
 python .\chapter1\bai1.33.py
@@ -40,6 +40,8 @@ python .\chapter1\bai1.36.py
 python .\chapter1\bai1.37.py
 python .\chapter1\bai1.38.py
 python .\chapter1\bai1.39.py
+python .\chapter1\du_an_1_1.py
+python .\chapter1\du_an_1_2.py
 python .\chapter1\du_an_1_3.py
 ```
 
